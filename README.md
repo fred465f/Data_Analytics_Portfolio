@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## Data Science Portfolio - Frederik Rytter
 
-You can use the [editor on GitHub](https://github.com/fred465f/Data_Science_Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fred465f/Data_Science_Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# [Projekt 1: Undersøgelse af faktorer der påvirker testresultater](https://github.com/fred465f/exams)
+I dette projekt analyseres et datasæt fra Kaggle, indeholdende information om test resultater i tre forskellige tests, læsning, skrivning og matematik, og dertilhørende faktorer, såsom forældres uddannelses niveau, køn og information om hvorvidt prøvetageren deltog i test forberedelsen.
+Specielt undersøges sammenhænge mellem disse faktorer, og herunder om der er en signifikant forskel i test resultater, fra den generelle befolkning og prøvetagere der deltog i test forberedelsen. Yderligere undersøges, om der er en signifikant forskel, i test resultater mellem prøvetagere, hvis forældre har forskellig uddannelsesbaggrund. Ydeligere undersøges hvorvidt der er en association mellem observationer, der klare sig godt i en test, og dermed også klare sig godt i de andre tests.
