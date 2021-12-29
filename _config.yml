@@ -1,7 +1,8 @@
 theme: jekyll-theme-minimal
-title: Data Science Portfolio
+title: Data Analytics Portfolio
 description: >
-  Min portfolio af data science projekter, som jeg laver i løbet af min lærings process. <br />
-  Et overblik over de individuelle projekter er givet, samt link til github, hvor koden brugt til analysen ligger, samt data-sættet, 
-  og rapporten hvor jeg går i dybden med metode, analyse og hvilke signifikante resultater der er værd at undersøge yderligere. <br />
-  I nogen projekter implementeres diverse supervised- eller unsupervised machine learning algoritmer, og eventuel produktions klar API.
+  Min portfolio af data analytics projekter, som jeg laver i løbet af min lærings process. <br />
+  Et overblik over de individuelle projekter er givet, samt link til github, hvor koden ligger samt en dybere beskrivelse af projektet. <br />
+  Projekter inkludere analyser hvor en rapporten er udarbejdet, hvor jeg går i dybden med metode, analyse og hvilke signifikante resultater der er værd at undersøge yderligere. <br />
+  Yderligere projekter inkludere arbejde med SQL, excel og R-studio. <br />
+  Kreative projekter inkluderes også, som jeg gennem tiden har udarbejdet.
