@@ -1,8 +1,8 @@
 theme: jekyll-theme-minimal
 title: Data Analytics Portfolio
 description: >
-  Min portfolio af data analytics projekter, som jeg laver i løbet af min lærings process. <br />
-  Et overblik over de individuelle projekter er givet, samt link til github, hvor koden ligger samt en dybere beskrivelse af projektet. <br />
-  Projekter inkludere analyser hvor en rapporten er udarbejdet, hvor jeg går i dybden med metode, analyse og hvilke signifikante resultater der er værd at undersøge yderligere. <br />
-  Yderligere projekter inkludere arbejde med SQL, excel og R-studio. <br />
-  Kreative projekter inkluderes også, som jeg gennem tiden har udarbejdet.
+  A portfolio of my data analytics projects, that i have made through out my learning journey. <br />
+  In each project overview, a description of the project and the most important results are given. <br />
+  The titles are links to the coresponding github repositories, where the code and more in depth explanations lie. <br />
+  Commen projects i will do include, data analysis in python, R-studio and Excel and data querying in SQL. <br />
+  More creative projects with different purposes will also be found in the projects list.
