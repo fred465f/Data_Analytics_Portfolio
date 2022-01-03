@@ -20,3 +20,9 @@ It contains features such as,
  - Keeping af log of events in the analysis progress
 
 All made with the purpose of creating an simple and quick workflow for getting a quick overview of the data.
+
+# [Certificates](https://github.com/fred465f/Data_Analytics_Portfolio/Codecademy-Certificates)
+
+![](/Codecademy-Certificates/data_analyst_screenshot)
+
+![](/Codecademy-Certificates/Sql-Analysis-Skærmbillede)
