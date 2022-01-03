@@ -27,6 +27,6 @@ All made with the purpose of creating an simple and quick workflow for getting a
 
 <img src="/Codecademy_Certificates/data_analyst_screenshot.png" width="600" height="500" />
 
-![](/Codecademy_Certificates/Sql_Analysis_Skærmbillede)
+![](/Codecademy_Certificates/Sql_Analysis_Skærmbillede.png)
 
 <img src="https://github.com/fred465f/Data_Analytics_Portfolio/blob/main/Codecademy_Certificates/Sql_Analysis_Sk%C3%A6rmbillede.png" width="600" height="500" />
