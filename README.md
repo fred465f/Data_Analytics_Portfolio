@@ -8,3 +8,15 @@ I dette projekt analyseres et datasæt fra Kaggle, indeholdende information om t
 Specielt undersøges sammenhænge mellem disse faktorer, og herunder om der er en signifikant forskel i test resultater, fra den generelle befolkning og prøvetagere der deltog i test forberedelsen. Yderligere undersøges, om der er en signifikant forskel, i test resultater mellem prøvetagere, hvis forældre har forskellig uddannelsesbaggrund. Ydeligere undersøges hvorvidt der er en association mellem observationer, der klare sig godt i en test, og dermed også klare sig godt i de andre tests.
 
 ![](/images/scatter-pages.png)
+
+# [Project 2: Lab - Data Analytics Module](https://github.com/fred465f/Lab)
+Lab is a small module for python data analysis, made with the purpose of easing
+the workflow of analysing data, to get a quick overview of the most important aspects of the data at hand.
+It contains features such as,
+
+ - Easy acces to different analysis types
+ - Fitting data to models and visualise residuals
+ - Clean data for missing values and inconvertable values
+ - Keeping af log of events in the analysis progress
+
+All made with the purpose of creating an simple and quick workflow for getting a quick overview of the data.
