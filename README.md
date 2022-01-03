@@ -25,4 +25,4 @@ All made with the purpose of creating an simple and quick workflow for getting a
 
 <img src="/Codecademy_Certificates/data_analyst_screenshot.png" width="600" height="500" />
 
-<img src="/Codecademy_Certificates/data_analyst_screenshot.png" width="600" height="500" />
+<img src="/Codecademy_Certificates/Sql_Analysis_Skærmbillede.png" width="600" height="500" />
