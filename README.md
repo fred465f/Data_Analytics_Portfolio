@@ -23,6 +23,10 @@ All made with the purpose of creating an simple and quick workflow for getting a
 
 # [Certificates](https://github.com/fred465f/Data_Analytics_Portfolio/tree/main/Codecademy_Certificates)
 
+![](/Codecademy_Certificates/data_analyst_screenshot.png)
+
 <img src="/Codecademy_Certificates/data_analyst_screenshot.png" width="600" height="500" />
+
+![](/Codecademy_Certificates/Sql_Analysis_Skærmbillede)
 
 <img src="https://github.com/fred465f/Data_Analytics_Portfolio/blob/main/Codecademy_Certificates/Sql_Analysis_Sk%C3%A6rmbillede.png" width="600" height="500" />
