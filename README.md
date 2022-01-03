@@ -21,8 +21,8 @@ It contains features such as,
 
 All made with the purpose of creating an simple and quick workflow for getting a quick overview of the data.
 
-# [Certificates](https://github.com/fred465f/Data_Analytics_Portfolio/Codecademy_Certificates)
+# [Certificates](https://github.com/fred465f/Data_Analytics_Portfolio/tree/main/Codecademy_Certificates)
 
-![](/Codecademy_Certificates/data_analyst_screenshot)
+![](/Codecademy_Certificates/data_analyst_screenshot.png)
 
-![](/Codecademy_Certificates/Sql_Analysis_Skærmbillede)
+![](/Codecademy_Certificates/Sql_Analysis_Skærmbillede.png)
