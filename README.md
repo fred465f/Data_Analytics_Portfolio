@@ -1,11 +1,11 @@
 ## Data Analytics Portfolio - Frederik Rytter
 
-# [Project 1: Undersøgelse af faktorer der påvirker testresultater (skift ud med engelsk project engang)](https://github.com/fred465f/exams)
-I dette projekt analyseres et datasæt fra Kaggle, indeholdende information om test resultater i tre forskellige tests, læsning, skrivning og matematik, og dertilhørende faktorer, såsom forældres uddannelses niveau, køn og information om hvorvidt prøvetageren deltog i test forberedelsen.
+# [Project 1: Analysis of factors that affect test results](https://github.com/fred465f/exams)
+In this project I analyse a dataset from Kaggle, which contains information about three different categories of tests, reading, writing and math. I focus on what factors, such as parental education level, gender and test preperation, that affects how well a student does on the test.
 
 ![](/images/eksamens-score-fordeling-pages.png)
 
-Specielt undersøges sammenhænge mellem disse faktorer, og herunder om der er en signifikant forskel i test resultater, fra den generelle befolkning og prøvetagere der deltog i test forberedelsen. Yderligere undersøges, om der er en signifikant forskel, i test resultater mellem prøvetagere, hvis forældre har forskellig uddannelsesbaggrund. Ydeligere undersøges hvorvidt der er en association mellem observationer, der klare sig godt i en test, og dermed også klare sig godt i de andre tests.
+Correlation between the above factors will be analysed. I will furthermore examine whether there is a significant difference betweem test results from the general population and that of the students that participated in the test preperation. I will also examine whether there is a significant difference betweem test results of students whos parents have different educational background. The last thing i will examine is whether a student that does well in one test, also does well on the other tests.
 
 ![](/images/scatter-pages.png)
 
