@@ -21,6 +21,11 @@ It contains features such as,
 
 All made with the purpose of creating an simple and quick workflow for getting a quick overview of the data.
 
+# Other projects:
+ - Sql
+ - Excel
+ - R-studio
+
 # [Certificates](https://github.com/fred465f/Data_Analytics_Portfolio/tree/main/Codecademy_Certificates)
 
 ![](/Codecademy_Certificates/data_analyst_screenshot.png)
