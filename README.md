@@ -21,7 +21,7 @@ It contains features such as,
 
 All made with the purpose of creating an simple and quick workflow for getting a quick overview of the data.
 
-# Other projects:
+# [Other projects](https://github.com/fred465f/Projects_Repo):
  - Sql
  - Excel
  - R-studio
