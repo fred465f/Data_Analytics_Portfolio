@@ -40,8 +40,6 @@ The positive/negative sentiment ratio grouped by each arline were calculated and
 
 ![](/images/PositiveNegative_Sentiment_Ratio.png)
 
-The Functions.py file, contains helper functions for quering data, and uploading the resulting tables to csv files. The Query.py executes the query with the help og the Functions.py module, and saves the resulting table to csv file. Lastly the Analysis.py, makes the visualisations shown above.
-
 # [Other projects](https://github.com/fred465f/Projects_Repo):
  - Sql
  - Excel
