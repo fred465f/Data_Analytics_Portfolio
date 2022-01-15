@@ -32,7 +32,7 @@ In this project i analysed data regarded Twitter reviews of US Airlines, and use
 
 The python library sqlite3 was used to write sqlite commands to query the database, 'database.sqlite', downloaded from kaggle, 
 
- - https://www.kaggle.com/crowdflower/twitter-airline-sentiment
+ - [Link to Twitter Airline Sentiment data at Kaggle.com](https://www.kaggle.com/crowdflower/twitter-airline-sentiment)
 
 and originaly collected at Crowdflower's Data for Everyone library. 
 Pandas was used to import the tables - that were created by the queries and uploaded with the csv library. 
