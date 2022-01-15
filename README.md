@@ -34,11 +34,11 @@ The python library sqlite3 was used to write sqlite commands to query the databa
 
 The number of positive, neutral and negative number of reviews, grouped by each arline were calculated and visualised with seaborn:
 
-![](/Sentiment_Count.png)
+![](https://github.com/fred465f/Airline_sentiment_repo/blob/master/Sentiment_Count.png)
 
 The positive/negative sentiment ratio grouped by each arline were calculated and visualised with seaborn:
 
-![](/PositiveNegative_Sentiment_Ratio.png)
+![](https://github.com/fred465f/Airline_sentiment_repo/blob/master/PositiveNegative_Sentiment_Ratio.png)
 
 The Functions.py file, contains helper functions for quering data, and uploading the resulting tables to csv files. The Query.py executes the query with the help og the Functions.py module, and saves the resulting table to csv file. Lastly the Analysis.py, makes the visualisations shown above.
 
